@@ -75,6 +75,11 @@
     align-items: center;
     justify-content: space-between;
 }
+.content_header {
+    padding: 20px 0;
+    border-bottom : solid 2px gray;
+}
+
 .content {
     flex-basis: 79%;
     border-radius: 10px;
